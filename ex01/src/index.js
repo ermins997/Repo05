@@ -1,6 +1,6 @@
 function main(){
     var myFirstName = "Ermin";
-    var mySecondName = "Sačić";
+    var mySecondName = "Sacic";
     var myHomeTown = "Sarajevo";
 
     return{

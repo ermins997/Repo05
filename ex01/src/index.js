@@ -1,11 +1,11 @@
 function main(){
     var myFirstName = "Ermin";
-    var mySecondName = "Sacic";
+    var myLastName = "Sacic";
     var myHomeTown = "Sarajevo";
 
     return{
         myFirstName,
-        mySecondName,
+        myLastName,
         myHomeTown
     };
 }
